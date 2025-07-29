@@ -19,7 +19,6 @@ This repository contains basic Arduino projects and codes for beginners. These s
 - [Hardware Requirements](#hardware-requirements)
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
-- [Demo Images/Videos](#demo-imagesvideos)
 - [License](#license)
 - [Author](#author)
 
@@ -86,3 +85,6 @@ These codes are shared for educational purposes and to help beginners understand
 Feel free to explore, use, and modify the code!
 
 📌 **Note**: This README is temporary and will be updated with detailed descriptions and visuals soon.
+
+Asad Ali
+
